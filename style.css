@@ -1,1 +1,92 @@
-style.css
+.header{
+	background: url("images/fondo.jpg") no-repeat center fixed;
+	background-size: cover;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	height: 700px;
+}
+
+.jumbotron{
+	background-color: rgba(0, 0, 0,0.0);
+	color: #fff;
+}
+
+.titulo{
+	margin-top: 0px;
+}
+
+.logo{
+	margin-top: 60px;
+	height: 60px;
+}
+
+.imagenlogo{
+	height: 50px;
+}
+
+h3{
+	margin-top: 128px;
+}
+
+.boton{
+	margin-top: 60px;
+}
+
+.section{
+	background-color: #009cff;
+	height: 600px;
+}
+
+.h2section{
+	margin-top: 100px;
+	font-family:HelveticaNeue-Light, sans-serif;
+	color:white;
+	font-size: 4em;
+}
+
+.h4section{
+	margin-top: 50px;
+	font-family: HelveticaNeue-Light, 
+	sans-serif; 
+	color:white;
+	font-size:2em;
+}
+
+hr{
+	border-top: dashed #eee;
+}
+
+.h3info{
+	font-family:lato; 
+	text-align:center
+}
+
+.informacion{
+	color:black;
+}
+
+
+.colinscripcion{
+	width: 50%;
+	height: 50px;
+	float: left;
+	position: relative;
+}
+
+
+.h3inscripcion{
+	margin-top: 0px;
+}
+
+
+p{
+	font-size: 1.2em;
+	margin-top: 20px;
+}
+
+
+
+.iframe_mapa{
+	width: 100%;
+}
